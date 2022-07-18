@@ -1,6 +1,6 @@
 import {Todo} from "../classes";
 import {todoList} from "../index";
-//comentrario
+
 let divTodoList = document.querySelector(".todo-list");
 let txtInput = document.querySelector(".new-todo");
 let btnBorrar = document.querySelector(".clear-completed");
